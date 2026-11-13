@@ -20,7 +20,7 @@ body {
 
 .card {
   background: var(--card-bg);
-  padding: calc(var(--space) * 2);
+  padding: calc(var(--space) * 3);
   border-radius: 99px;
   max-width: 360px;
   text-align: center;
