@@ -21,7 +21,7 @@ body {
 .card {
   background: var(--card-bg);
   padding: calc(var(--space) * 2);
-  border-radius: 12px;
+  border-radius: 99px;
   max-width: 360px;
   text-align: center;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
